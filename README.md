@@ -39,10 +39,10 @@ In accordance with the Canadian *Interest Act* (R.S.C., 1985, c. I-15, s. 6), re
 >
 > **Annual Cash Outflow Factor ($K_r$):** `K_r = 12 × [ r_m / (1 - (1 + r_m)^(-300)) ]`
 
-| Interest Rate Scenario | Annual Cash Outflow Factor ($K_r$) | Stressed Monthly Debt Impact |
+| Interest Rate Scenario | Annual Cash Outflow Factor (K_r) | Stressed Monthly Debt Impact |
 | :--- | :--- | :--- |
 | **5.50% FP Canada Baseline** | **7.3117%** | Standard Underwriting Baseline |
-| **7.50% OSFI Qualifying Stress Rate** | **8.7801%** ($K_{7.50\%}$) | +20.08% Cash Flow Friction Shift |
+| **7.50% OSFI Qualifying Stress Rate** | **8.7801%** | +20.08% Cash Flow Friction Shift |
 
 ### 2. Tax-Friction Liquidity Classification
 To reflect statutory liquidity realities, assets are categorized by tax haircut friction:
